@@ -27,9 +27,6 @@ O objetivo principal deste projeto é transpor a barreira entre a teoria de sist
 
 ---
 
-## 📚 Curadoria de Fontes (NotebookLM)
-
-Para o embasamento teórico e prático deste caderno, foram cadastradas e indexadas **14 fontes abertas** no workspace do NotebookLM, divididas entre guias definitivos, folhas de consulta e documentações oficiais:
 
 ## 📚 Curadoria de Fontes (NotebookLM)
 
