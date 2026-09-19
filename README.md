@@ -92,5 +92,3 @@ Sinta-se à vontade para navegar pelas pastas, clonar este repositório para con
     ├── resumos.md          # Resumos estruturados do assunto
     ├── glossario.md        # Glossário com os principais conceitos aprendidos
     └── prompts_uteis.md    # Conjunto de prompts reutilizáveis para revisões
-/
-
