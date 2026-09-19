@@ -65,6 +65,18 @@ O mercado valoriza o raciocínio por trás dos resultados. Abaixo está document
 
 *(Mais detalhes sobre o histórico de interações e troubleshooting encontram-se na pasta [`/prompts`](./prompts))*
 
+🚀 Miniguia de Estudo (Entrega Final)
+O resultado consolidado dos estudos está organizado na pasta miniguia/:
+
+Resumos Estruturados (resumos.md): Síntese sobre comandos de terminal, filtros eficientes e automação em Shell.
+
+Glossário (glossario.md): Definições de termos essenciais (Shell, Regex, Pipe, Stdin/Stdout, Daemons).
+
+Prompts Úteis (prompts_uteis.md): Caixa de ferramentas com prompts prontos para futuras revisões.
+
+💡 Como utilizar
+Sinta-se à vontade para navegar pelas pastas, clonar este repositório para consultas rápidas de terminal ou utilizá-lo como base para os seus próprios estudos em ambientes Unix/Linux!
+
 ---
 
 ## 📂 Estrutura do Repositório
