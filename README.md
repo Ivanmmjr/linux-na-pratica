@@ -31,24 +31,27 @@ O objetivo principal deste projeto é transpor a barreira entre a teoria de sist
 
 Para o embasamento teórico e prático deste caderno, foram cadastradas e indexadas **14 fontes abertas** no workspace do NotebookLM, divididas entre guias definitivos, folhas de consulta e documentações oficiais:
 
-1. **Guias Didáticos e Manuais de Referência:**
-   * *Guia Foca Linux* & *GuiaFoca — Site Oficial*
-   * *Bash Linux - Guia Básico de Comandos e Exemplos de Uso*
-   * *Os comandos Linux mais usados*
-2. **Busca, Filtragem e Conectividade:**
-   * *Como usar o comando grep no Linux? Exemplos de uso*
-   * *Folha de Consulta de Comandos Linux - Arquivos, grep e ssh*
-3. **Shell Scripting e Automação:**
-   * *Guia de sobrevivência Bash e Shell Script (Sério!) – Otávio Miranda*
-   * *Research report: Comandos Práticos e Shell Scripting no Linux*
-   * *Shell script: um guia básico – Diego Mariano*
-   * *Tutorial de Shell Script | Lucas Possatti*
-4. **Visão Institucional e Enterprise:**
-   * *O que é Linux? | IBM*
-   * *O que é Linux? | Oracle Brasil*
-   * *Official Ubuntu Documentation*
-   * *Red Hat Enterprise Linux*
+## 📚 Curadoria de Fontes (NotebookLM)
 
+Para o embasamento teórico e prático deste caderno, foram cadastradas e indexadas **14 fontes abertas** no workspace do NotebookLM, divididas entre guias definitivos, folhas de consulta e documentações oficiais:
+
+1. **Guias Didáticos e Manuais de Referência:**
+   * [Guia Foca Linux / Site Oficial](https://www.guiafoca.org/) [5, 7]
+   * [Bash Linux - Guia Básico de Comandos e Exemplos de Uso](https://www.hostinger.com/br/tutoriais/comandos-bash-linux/) [1, 2]
+   * [Os comandos Linux mais usados](https://blog.ironlinux.com.br/comandos-linux/) [12, 13]
+2. **Busca, Filtragem e Conectividade:**
+   * [Como usar o comando grep no Linux? Exemplos de uso](https://www.locaweb.com.br/ajuda/wiki/grep-linux/) [3]
+   * [Folha de Consulta de Comandos Linux - Arquivos, grep e ssh](https://coddy.tech/cheat-sheets/pt/linux-commands) [4]
+3. **Shell Scripting e Automação:**
+   * [Guia de sobrevivência Bash e Shell Script (Sério!) – Otávio Miranda](https://otaviomiranda.com.br/2026/guia-de-sobrevivencia-bash-e-shell-script-serio-esse-bom-mesmo/) [4, 6]
+   * [Shell script: um guia básico – Diego Mariano](https://diegomariano.com/shell-script-um-guia-basico/) [17]
+   * [Tutorial de Shell Script | Lucas Possatti](https://www.possatti.com.br/shell-script/)
+   * *Research report: Comandos Práticos e Shell Scripting no Linux* (Relatório gerado e importado diretamente para o caderno) [4, 16]
+4. **Visão Institucional e Enterprise:**
+   * [O que é Linux? | IBM](https://www.ibm.com/br-pt/think/topics/linux) [8, 9]
+   * [O que é Linux? | Oracle Brasil](https://www.oracle.com/br/linux/what-is-linux/) [10]
+   * [Official Ubuntu Documentation](https://help.ubuntu.com/) [11]
+   * [Red Hat Enterprise Linux](https://www.redhat.com/pt-br/technologies/linux-platforms/enterprise-linux) [14, 15]
 ---
 
 ## ⚙️ Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
